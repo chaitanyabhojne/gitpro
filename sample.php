@@ -1,5 +1,5 @@
 <?php
 
-echo "sample file";
+echo "Tests";
 
 ?>
